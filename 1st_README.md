@@ -1,4 +1,4 @@
-## 1st Assignment -OnePage ShoppingMall
+## 1st&2nd Assignment -OnePage ShoppingMall
 * Change every font to 'Hi Melody'
 * Body setting
 ```
